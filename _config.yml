@@ -38,5 +38,5 @@ markdown: kramdown
 permalink: /:title
 paginate: 24
 paginate_path: "/page:num"
-gems:
+plugins:
   - jekyll-paginate
